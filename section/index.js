@@ -1,0 +1,1 @@
+export { defailt as FeaturedPost } from './FeaturedPost'
